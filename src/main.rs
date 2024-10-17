@@ -1,4 +1,4 @@
-use my_project_parser_super-puper::list_parser;
+use my_project_parser_super_puper::list_parser;
   
 pub fn main() {
       print!("OK!");
