@@ -2,7 +2,7 @@
 
 My parser for education purpose 
 
-![alt text](\assets\image.png)
+![alt text]([\assets\image.png](https://github.com/Nikita-ukma/my_first_parser/blob/main/assets/image.png))
 
 ### Example
 
